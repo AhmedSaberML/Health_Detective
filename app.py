@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 import uuid
-from code import get_answer
+from search import get_answer
 
 def main():
     st.title("Predict Medical Outcome")
