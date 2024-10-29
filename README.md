@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
   The application should open in your web browser.
   
 ## Screenshots
-![Health Detective Logo]()
+![Health Detective Logo](https://github.com/AhmedSaberML/Health_Detective/blob/main/images/WhatsApp%20Image%202024-10-29%20at%2005.39.04_7f808312.jpg)
 ![Health Detective Logo]()
 ![Health Detective Logo]()
 
