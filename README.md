@@ -51,8 +51,8 @@ Before you begin, ensure you have the following installed:
   
 ## Screenshots
 ![Health Detective Logo](https://github.com/AhmedSaberML/Health_Detective/blob/main/images/WhatsApp%20Image%202024-10-29%20at%2005.39.04_7f808312.jpg)
-![Health Detective Logo]()
-![Health Detective Logo]()
+![Health Detective Logo](https://github.com/AhmedSaberML/Health_Detective/blob/main/images/WhatsApp%20Image%202024-10-29%20at%2006.03.05_cb5d38bf.jpg)
+![Health Detective Logo](https://github.com/AhmedSaberML/Health_Detective/blob/main/images/WhatsApp%20Image%202024-10-29%20at%2006.12.08_ecbab8b7.jpg)
 
 ## Usage
 Enter your medical question in the provided input box and click "Search."
