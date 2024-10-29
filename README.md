@@ -50,6 +50,9 @@ Before you begin, ensure you have the following installed:
   The application should open in your web browser.
   
 ## Screenshots
+![Health Detective Logo]()
+![Health Detective Logo]()
+![Health Detective Logo]()
 
 ## Usage
 Enter your medical question in the provided input box and click "Search."
