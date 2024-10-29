@@ -1,6 +1,7 @@
 # Required libraries for RAG model
 PyPDF2
 langchain-text-splitters
+langchain_community
 unstructured==0.14.5
 openpyxl
 transformers
@@ -13,4 +14,3 @@ streamlit
 numpy
 pandas
 scikit-learn
-requests
