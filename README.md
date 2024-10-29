@@ -1,4 +1,5 @@
 # Health Detective
+![Health Detective Logo](URL_of_your_image)
 
 ## Overview
 Health Detective is an innovative medical prediction application that leverages advanced machine learning techniques. Utilizing a Retrieval-Augmented Generation (RAG) model, it combines document retrieval with a large language model (LLM) to provide accurate medical predictions based on user queries. The application aims to assist users in understanding potential medical outcomes based on symptoms and patient profiles.
